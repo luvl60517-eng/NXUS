@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS",
+  "description": "Aplicación móvil de roleplay y chat con IA con memoria contextual, universos personalizados, relaciones dinámicas y autonomía de personajes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
